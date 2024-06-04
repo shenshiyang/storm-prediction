@@ -1,0 +1,18 @@
+# 基本科学计算库
+numpy==1.23.5
+pandas==1.5.2
+
+# 数据可视化库
+matplotlib==3.6.2
+
+# 图像处理库
+Pillow==9.3.0
+
+# 深度学习库
+tensorflow==2.11.0
+
+# 机器学习库
+scikit-learn==1.1.3
+
+# Jupyter Notebook
+jupyter==1.0.0
